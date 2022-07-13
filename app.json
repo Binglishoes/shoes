@@ -1,7 +1,7 @@
 {
-    "name": "fu*k_github",
+    "name": "shoes",
     "description": "",
-    "keywords": ["vmess vless trojan shadowsocks socks"],
+    "keywords": ["vm vl tro shadows soks"],
     "env": {
         "AA": {
             "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
@@ -9,17 +9,17 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+            "value": "70da6e82-2df4-4886-bc9e-9058c2cdebec"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考readme.md中的（5：Caddy主页配置）",
             "value": "https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html"
         },
         "ParameterSSENCYPT": {
-            "description": "SS加密方式，查看支持协议: https://www.v2fly.org/config/protocols/shadowsocks.html",
-            "value": "chacha20-ietf-poly1305"
+            "description": "加密方式，查看支持协议: https://www.bing.org/config/shads.html",
+            "value": "chach"
         }
     },
-    "repository": "",
+    "repository": "shoes",
     "stack": "container"
 }
